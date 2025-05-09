@@ -80,7 +80,9 @@ The BWZ dashboard highlights:
   
 - Consumer customer segment has the highest return rate of 52.03%, Corporate follows at 31.42% and lastly Home Office records the lowest.
   
-**Trends:** Unique orders shiws a steady increae from times series trend (YoY +50.8%), suggesting quality customer retention.
+**Trends:**
+
+Unique orders shows a steady increase from times series trend (YoY +50.8%), suggesting quality customer retention.
 
 ## Insights from Analysis
 
